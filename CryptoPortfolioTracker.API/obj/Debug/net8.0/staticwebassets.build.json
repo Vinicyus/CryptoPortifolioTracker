@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OruH68gDdPP608OnxL5epx9LH+Potk2B7lIY5AlV2ik=",
+  "Source": "CryptoPortfolioTracker.API",
+  "BasePath": "_content/CryptoPortfolioTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
